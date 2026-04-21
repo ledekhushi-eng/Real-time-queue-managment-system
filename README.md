@@ -31,7 +31,7 @@ GitHub project deployment
 
 🏗️ Project Structure
 ⚙️ How to Open Project
-Step 1: Clone Repository:git@github.com:ledekhushi-eng/Real-time-queue-managment-system.git
+Step 1: Clone Repository:[git@github.com:ledekhushi-eng/Real-time-queue-managment-system.git](https://github.com/ledekhushi-eng/Real-time-queue-managment-system.git)
 Step 2: Open Dashboard File
 Install Power BI Desktop and open:
 
