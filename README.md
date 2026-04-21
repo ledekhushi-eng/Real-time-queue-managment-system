@@ -36,7 +36,10 @@ Step 2: Open Dashboard File
 Install Power BI Desktop and open:
 
 Step 3: View Dashboard Output
-Open image file:
+
+Open image file:![Uploading dashboard.png…]()
+
+
 
 🖥️ Dashboard Output Includes
 Number of Patients
