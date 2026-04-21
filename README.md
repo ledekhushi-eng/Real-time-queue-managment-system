@@ -37,7 +37,7 @@ Install Power BI Desktop and open:
 
 Step 3: View Dashboard Output
 
-Open image file:![Uploading dashboard.png…]()
+Open image file:
 
 
 
